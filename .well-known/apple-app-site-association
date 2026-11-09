@@ -1,1 +1,7 @@
-
+{
+  "webcredentials": {
+    "apps": [
+      "samsotech.com.samsotech.testapp"
+    ]
+  }
+}
